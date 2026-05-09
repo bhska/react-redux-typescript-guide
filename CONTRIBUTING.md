@@ -2,7 +2,7 @@
 
 ## General
 1. Make sure you have read and understand the **Goals** section to be aligned with project goals.
-2. Before submitting a PR please comment in the relevant issue (or create a new one if it doesn't exist yet) to discuss all the requirements (this will prevent rejecting the PR and wasting your work).
+2. Before submitting a PR please comment in the relevant issue (or create a new one if it doesn't exist yet) to discuss all the requirements (this will prevent rejecting the PR and wasting your work). Additionally, ensure that you don’t work on issues that have already been assigned to the maintainers. You’ll be free to take up unassigned ones.
 3. All workflow scripts (prettier, linter, tests) must pass successfully (it is run automatically on CI and will fail on github checks).
 
 ## Edit `README_SOURCE.md` to generate an updated `README.md`
